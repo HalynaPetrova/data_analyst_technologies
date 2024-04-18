@@ -13,7 +13,7 @@ Web Scraping and Data Analysis project to analyze Data Analyst vacancies (www.dj
 ```
 git clone https://github.com/HalynaPetrova/data_analyst_technologies.git  
 python3 -m venv venv  
-source venv/bin/activate  # On Windows use `venv\Scripts\activate  
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`  
 pip install -r requirements.txt  
 scrapy crawl djinni -O vacancies.csv  
 ```
@@ -35,9 +35,9 @@ Open the analytics file and run all cells in order (Ctrl+Alt+Shift+Enter)
 
 Number of vacancies with the specified salary: 8 %  
 - Maximum:  $ 3500.0  
+- Minimal:  $ 450.0 
 - Average:  $ 1975.0  
-- Minimal:  $ 4500.0  
-- Median:  $ 750.0
+- Median:  $ 750.0  
 
 🏢 __Type of company__: 
 - Product:  77 %  
