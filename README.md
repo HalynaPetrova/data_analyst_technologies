@@ -1,7 +1,6 @@
 #  DATA ANALYTIC VACANCIES STATISTICS
 
-Web Scraping and Data Analysis project to analyze Data Analyst vacancies.  
-Research-based on 100 vacancies from djinni.co.
+Web Scraping and Data Analysis project to analyze Data Analyst vacancies (www.djinni.co)
 
 ## Using Technologies:
 
@@ -52,8 +51,8 @@ Number of vacancies with the specified salary: 8 %
 - Hybrid work: 17 %
 - Office only: 17 %
 
-⚙️ __Technologies__: 
+⚙️ __The most popular technologies__: 
 
 `🔍 SQL` `📈 Power BI` `🐍 Python/R` `📊 Tableau` `🎯 Business Analysis`
 
-![technologies_1](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/58e5724c-d8dd-4f6d-8999-8adc7ab18fe0)
+![technologies_1](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/1a59b129-3cb2-4ac9-a20a-5efdc79b071b)
