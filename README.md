@@ -1,7 +1,7 @@
-# STATISTICS OF DATA ANALYІЕ JOBS
+#  DATA ANALYTIC VACANCIES STATISTICS
 
-Web Scraping and Data Analysis project to analyze Aata Analyst job.  
-Research based on 100 jobs from djinni.co.
+Web Scraping and Data Analysis project to analyze Data Analyst vacancies.  
+Research-based on 100 vacancies from djinni.co.
 
 ## Using Technologies:
 
@@ -18,24 +18,42 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 pip install -r requirements.txt  
 scrapy crawl djinni -O vacancies.csv  
 ```
-Open analytics file and run all cells in order (Ctrl+Alt+Shift+Enter)
+Open the analytics file and run all cells in order (Ctrl+Alt+Shift+Enter)
 
 ## Сonclusions:
 
-🗓️ Average number of new vacancies per day: 10  
-👁️‍🗨️ Average number of views per day:  1430  
-💬 Average number of reviews per day:  234  
-🚘 Number of vacancies with relocation:  13 %  
-📄 Number of vacancies with a test task:  25 %  
+🗓️ __Average number of new vacancies per day:__ 10  
 
-💵 __Salary__  
+👁️‍🗨️ __Average number of views per day:__  1430  
 
-Number of vacancies with the specified salary: 8 %
+💬 __Average number of reviews per day:__  234  
+
+🚘 __Number of vacancies with relocation:__  13 %  
+
+📄 __Number of vacancies with a test task:__  25 %  
+
+💵 __Salary__:  
+
+Number of vacancies with the specified salary: 8 %  
 - Maximum:  $ 3500.0  
 - Average:  $ 1975.0  
 - Minimal:  $ 4500.0  
 - Median:  $ 750.0
-  
-![type_of_company](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/675aaa69-8001-4a62-9930-2c7ae1e876d4)  
-![workplace](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/3623501c-517c-4c35-b615-92d55906bdd4)  
-![technologies](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/cb74c3b0-5556-4713-b50f-b61d6e34c735)  
+
+🏢 __Type of company__: 
+- Product:  77 %  
+- Outsource:  7 %
+- Outstaff: 13 %
+- Digital Agency: 3 %
+
+🗄️ __Workplace__: 
+- Office or Remote:  36 %  
+- Only Remote:  33 %
+- Hybrid work: 17 %
+- Office only: 17 %
+
+⚙️ __Technologies__: 
+
+`🔍 SQL` `📈 Power BI` `🐍 Python/R` `📊 Tableau` `🎯 Business Analysis`
+
+![technologies_1](https://github.com/HalynaPetrova/data_analyst_technologies/assets/92261713/58e5724c-d8dd-4f6d-8999-8adc7ab18fe0)
